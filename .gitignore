@@ -31,4 +31,13 @@
 *.out
 *.app
 
+# Ignore Visual Studio files and directories
 .vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Ignore build directories
+Debug/
+Release/
